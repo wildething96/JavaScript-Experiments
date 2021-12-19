@@ -2,3 +2,9 @@
   margin: 0;
   padding: 0;
 }
+
+canvas {
+    background: rgb(226, 219, 219); 
+    display: block; 
+    margin: 0 auto;
+}
